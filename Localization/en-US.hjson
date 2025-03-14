@@ -285,7 +285,7 @@ Mods: {
 
 			ConeVenom: {
 				DisplayName: Cone Venom
-				Description: ""
+				Description: You cannot move (this includes your lungs)
 			}
 
 			//Potions
